@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pl.jaceksysiak</groupId>
-	<artifactId>HibernateKurs5_Sekcja5_Mapping_Composite_Value_Types_wer2</artifactId>
+	<artifactId>HibernateKurs5_Sekcja5_Mapping_Composite_Value_Types__wer3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
